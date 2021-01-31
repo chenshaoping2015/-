@@ -3,7 +3,7 @@
 # @Author: stevenchen
 from time import sleep
 
-from selenium练习.selenium_frame_windows.base import Base
+from auto_testing_prace.selenium练习.selenium_frame_windows.base import Base
 from selenium.webdriver.common.by import By
 
 
